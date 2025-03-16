@@ -221,6 +221,7 @@
     "standardVersionDetection": "Alapértelmezett verzió-érzékelés",
     "groupByCategory": "Csoportosítás kategória alapján",
     "autoApkFilterByArch": "Ha lehetséges, próbálja CPU architektúra szerint szűrni az APK-kat",
+    "autoLinkFilterByArch": "Ha lehetséges, próbálja meg a linkeket CPU-architektúra szerint szűrni.",
     "overrideSource": "Forrás felülírása",
     "dontShowAgain": "Ne jelenítse meg ezt többé",
     "dontShowTrackOnlyWarnings": "Ne jelenítse meg a „Csak nyomon-követés” figyelmeztetést",
@@ -294,7 +295,7 @@
     "shizukuBinderNotFound": "A Shizuku szolgáltatás nem fut",
     "shizukuOld": "Régi Shizuku verzió (<11) - frissítse",
     "shizukuOldAndroidWithADB": "A Shizuku csak Android < 8.1 ADB-vel fut - frissítse az Androidot vagy használja a Sui-t helyette",
-    "shizukuPretendToBeGooglePlay": "Állítsa be a Google Playt telepítési forrásként (ha Shizukut használ)",
+    "shizukuPretendToBeGooglePlay": "A Google Play beállítása telepítési forrásként (ha Shizukut használ)",
     "useSystemFont": "A rendszer betűtípusának használata",
     "useVersionCodeAsOSVersion": "Az alkalmazás verziókódjának használata a rendszer által érzékelt verzióként",
     "requestHeader": "Kérelemfejléc",
@@ -319,6 +320,11 @@
     "stayOneVersionBehind": "Maradjon egy verzióval a legújabb mögött",
     "refreshBeforeDownload": "Az alkalmazás adatainak frissítése a letöltés előtt",
     "tencentAppStore": "Tencent Appstore",
+    "name": "Név",
+    "smartname": "Név (Okos)",
+    "sortMethod": "Rendezési eljárás",
+    "welcome": "Üdvözöljük",
+    "documentationLinksNote": "Az alább linkelt Obtainium GitHub oldal videókra, cikkekre, beszélgetésekre és egyéb forrásokra mutató linkeket tartalmaz, amelyek segítenek megérteni az alkalmazás használatát.",
     "removeAppQuestion": {
         "one": "Eltávolítja az alkalmazást?",
         "other": "Eltávolítja az alkalmazásokat?"
